@@ -24,13 +24,40 @@ There are different algorithms like ID3, CART, SLIQ, etc which use different imp
 Defined here: [Entropy](Entropy.md) 
 ![](DT_Entropy_2.jpeg)
 
+
+## Gini Impurity
+Gini Impurity is better computationally than Entropy because to calculate Impurity we only need to get the square of the probabilities however to get entropy we need to do log<sub>2</sub> calculations which take more time
+
 ![](DT_Gini_3.jpeg)
 
-
+## Decision Trees for Regression
+Since numerical data is continuous to split it we use [[MSE]] to calculate which point provides the least error 
+We take the midpoints of each feature for each tuple and then check which midpoint provides the least error
 ![](DT_Bin_Descretization_Regression.jpeg)
+
+
+## Problems with DT
+Decision Trees are low bias and high variance algorithms, that is they can map complex relations decently however they are prone to overfitting to the training data.
+This happens because during training
+- The tree can become too deep 
+- The leaves arent handled properly
+
+To solve this we use **PRUNING**
+Types
+- Pre-Pruning
+- Post-Pruning
 
 ![](DT_Pruning_1.jpeg)
 
+## Ensemble Learning
+Using a collective of models to solve a problem, its helpful because bringing together multiple low bias high variance models can reduce bias and variance therefore improving the performance
+### Bagging
+Short for Bootstrapped Aggregation
+Bootstrapped -> Randomly sampling with Replacement (this is where the random from Random Forest comes from)
+Aggregation -> Combining the output of multiple models to get a better answer (Knowledge of the Crowd)
 ![](DT_Pruning_bagging.jpeg)
+
+## Bias-Variance Trade-off and Formula for Variance
+The trade-off refers to the fact that models with low bias will have high variance and vice versa. Tweaking either will affect the other, the exception of this being ensemble learning techniques.
 
 ![](DT_Bagging_RF_bias_variance.jpeg)
