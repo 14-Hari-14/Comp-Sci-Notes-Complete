@@ -17,5 +17,5 @@ Entropy is a measure of uncertainty or disorder in a group of samples.
 
 ## Used by
 
-- [[Decision Trees]]
+- [[Decision Trees + Random Forest]]
 - [[Random Forest]]

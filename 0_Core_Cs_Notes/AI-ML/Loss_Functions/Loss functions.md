@@ -18,7 +18,7 @@ This note is a small index of common algorithms and the loss functions or score 
 
 - [[Log Loss]]
 
-## [[Decision Trees]]
+## [[Decision Trees + Random Forest]]
 
 - [[Gini Impurity]]
 - [[Entropy]]

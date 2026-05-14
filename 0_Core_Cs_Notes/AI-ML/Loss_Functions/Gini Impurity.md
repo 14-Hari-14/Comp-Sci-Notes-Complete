@@ -17,5 +17,5 @@ Gini Impurity is a measure used by decision trees to check how mixed a group of 
 
 ## Used by
 
-- [[Decision Trees]]
+- [[Decision Trees + Random Forest]]
 - [[Random Forest]]
