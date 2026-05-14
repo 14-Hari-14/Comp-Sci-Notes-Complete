@@ -1,0 +1,20 @@
+Date: 2026-05-14
+Topics: #loss_function #mae #regression
+Link: 
+Class: [[]]
+
+---
+
+# Mean Absolute Error
+
+Mean Absolute Error (MAE) is a loss function used for regression.
+
+## Simple idea
+
+- It measures the average absolute difference between prediction and real value
+- It does not square the error, so it is less sensitive to outliers
+- A smaller MAE means better predictions
+
+## Used by
+
+- [[Linear Regression]]
