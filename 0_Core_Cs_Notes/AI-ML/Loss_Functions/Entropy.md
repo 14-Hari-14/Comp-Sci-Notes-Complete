@@ -15,6 +15,13 @@ Entropy is a measure of uncertainty or disorder in a group of samples.
 - High entropy means the group is more mixed
 - Decision trees use it to choose better splits
 
+## Derivation
+![[entropy_1.jpeg]]
+
+![[entropy_2.jpeg]]
+
+![[entropy_3.jpeg]]
+
 ## Used by
 
 - [[Decision Trees + Random Forest]]
