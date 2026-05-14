@@ -1,1 +1,1 @@
-This is a repo to digitalise and store my notes
+This is a repo to digitalise and store my notes.
