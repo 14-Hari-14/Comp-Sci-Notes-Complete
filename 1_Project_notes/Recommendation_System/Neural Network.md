@@ -5,7 +5,7 @@ Class: [[]]
 
 ---
 
-![[../../2_Images/neuron_io.png|neuron_io.png]]
+![neuron_io.png](../../2_Images/neuron_io.png)
 
 ## Activation Function
 
@@ -22,4 +22,4 @@ There are multiple type of activation function 3 most common are
 - **relu**
 - **sigmoid**
 
-![[../../2_Images/activation function types.png|activation function types.png]]
+![activation function types.png](../../2_Images/activation%20function%20types.png)

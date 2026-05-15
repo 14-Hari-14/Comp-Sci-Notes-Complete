@@ -26,11 +26,11 @@ To test each model we split the data in 3 parts
 3. testing: checking the final time to see general adaptability, final reported performance
 
 the split can be 60/20/20 or 80/10/10 
-![[../../2_Images/Machine_Learning_Basics.jpeg|Machine_Learning_Basics.jpeg]]
+![Machine_Learning_Basics.jpeg](../../2_Images/Machine_Learning_Basics.jpeg)
 
 ## ML Training Process
 
-![[../../2_Images/process_of_ml_training.jpeg|process_of_ml_training.jpeg]]
+![process_of_ml_training.jpeg](../../2_Images/process_of_ml_training.jpeg)
 ## Loss function
 
 **Loss** is a measure of how accurate the model is or how close the predicted value of the model is to the output
@@ -46,4 +46,4 @@ A few examples of different loss functions are
 **Precision** = true positives / total positive predictions
 **Recall** = true positives / actual positive elements
 
-![[../../2_Images/precisionVSrecall.png|precisionVSrecall.png]]
+![precisionVSrecall.png](../../2_Images/precisionVSrecall.png)

@@ -143,9 +143,9 @@ Components of a learning agent are
 3. **Critic:** Compares the performance of the agent with standard metrics and that data is sent to the learning element
 4. **Problem Generator:** Decides on new actions to be performed by the agent which will allow the agent to gather more data
 
-![[../../../2_Images/Learning Agent Architecture.png|Learning Agent Architecture.png]]
+![Learning Agent Architecture.png](../../../2_Images/Learning%20Agent%20Architecture.png)
 
 #### Representation
 The following figure shows how states are represented inside with increasing complexity
 
-![[../../../2_Images/State Representation.png|State Representation.png]]
+![State Representation.png](../../../2_Images/State%20Representation.png)

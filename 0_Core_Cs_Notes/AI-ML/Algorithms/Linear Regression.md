@@ -17,7 +17,7 @@ This is done in the assumption that if the function is able to map the closest t
 |Linear Regression is susceptible to over-fitting but it can be avoided using some dimensionality reduction techniques, regularization (L1 and L2) techniques and cross-validation.|But then linear regression also looks at a relationship between the mean of the dependent variables and the independent variables. Just as the mean is not a complete description of a single variable, linear regression is not a complete description of relationships among variables.|
 
 
-![[../../../2_Images/Linear_Reg_1.jpeg|Linear_Reg_1.jpeg]]![[../../../2_Images/Linear_Reg_2.jpeg|697]]
+![Linear_Reg_1.jpeg](../../../2_Images/Linear_Reg_1.jpeg)![697](../../../2_Images/Linear_Reg_2.jpeg)
 
 ### Types of Linear Regression
 

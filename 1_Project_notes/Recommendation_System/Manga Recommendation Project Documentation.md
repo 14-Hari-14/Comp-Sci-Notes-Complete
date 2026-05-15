@@ -36,7 +36,7 @@ Issues fixed inside the dataset
 
 # System Architecture
 
-![[Anime Recommendation Project Architecture.svg]]
+![](Anime%20Recommendation%20Project%20Architecture.svg)
 
 # Data Pipeline
 

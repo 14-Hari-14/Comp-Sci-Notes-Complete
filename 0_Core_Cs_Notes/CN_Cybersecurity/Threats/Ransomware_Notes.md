@@ -6,7 +6,7 @@ Class: [[]]
 ---
 # **Ransomware General Notes**
 
-![[../../../2_Images/ransomware_prevention_using_trace.jpg|ransomware_prevention_using_trace.jpg]]
+![ransomware_prevention_using_trace.jpg](../../../2_Images/ransomware_prevention_using_trace.jpg)
 
 **Definition:** Ransomware is a type of malware which is used to encrypt files and block essential services of the organisation / person after infecting the system.
 

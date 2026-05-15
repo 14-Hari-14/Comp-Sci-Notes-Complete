@@ -17,4 +17,4 @@ AES is a symmetric encryption algorithm that is used to quickly encrypt large am
 - **Examples:** AES (most popular), DES, 3DES, Blowfish.
 - **Weakness:** Key distribution is risky—if the key is intercepted, security is broken.
 
-![[../../../2_Images/AES_schematic.drawio.png|AES_schematic.drawio.png]]
+![AES_schematic.drawio.png](../../../2_Images/AES_schematic.drawio.png)

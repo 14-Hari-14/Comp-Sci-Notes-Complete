@@ -11,7 +11,7 @@ This theorem describes the probability of event A happening provided that event 
 
 P(A|B) = ( P(B|A) x P (A) ) / P(B)
 
-![[../../../2_Images/naive_bayes.png|naive_bayes.png]]
+![naive_bayes.png](../../../2_Images/naive_bayes.png)
 
 P(Ck | x<sub>1</sub>, x<sub>2</sub>, ... , x<sub>n</sub>) = P( x<sub>1</sub>, x<sub>2</sub>, ... , x<sub>n</sub> | C<sub>k</sub>) * P(C<sub>k</sub>) / P( x<sub>1</sub>, x<sub>2</sub>, ... , x<sub>n</sub> )
 

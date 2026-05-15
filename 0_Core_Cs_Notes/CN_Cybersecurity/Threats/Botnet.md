@@ -32,7 +32,7 @@ Examples are:
 
 ### Client Server Architecture
 Mimics the traditional workstation models where the botnets connect to 1 or a small number of Command-and-control (cnc) center like a web domain or an IRC channel^[internet relay chat] (text based real time chatroom)
-![[../../../2_Images/botnet topology.png|botnet topology.png]]
+![botnet topology.png](../../../2_Images/botnet%20topology.png)
 Disadvantages
 1. A single / few points of disruption depending on the topology used can cause the botnet removal
 

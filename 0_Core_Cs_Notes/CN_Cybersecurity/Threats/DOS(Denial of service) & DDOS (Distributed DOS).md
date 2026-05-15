@@ -36,4 +36,4 @@ Example
 | Volume  | **Low Volume.** The attacker might only need to send a few kilobytes of data.                                             | **High Volume.** The attacker needs to generate massive traffic (often Gigabits/sec).             |
 | Target  | The **Application Logic** or OS Kernel. It corrupts the memory stack or heap.                                             | The **Infrastructure**. It clogs network pipes or fills connection state tables.                  |
 
-![[../../../2_Images/dos_vs_ddos.png|dos_vs_ddos.png]]
+![dos_vs_ddos.png](../../../2_Images/dos_vs_ddos.png)

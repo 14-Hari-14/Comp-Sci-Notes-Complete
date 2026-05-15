@@ -15,7 +15,7 @@ The most well known optimisation routine is called **Gradient Descent**
 
 So gradient descent would mean bringing the gradient down. How that happens is we have a loss function, to reduce the loss we need to fix the weights and biases in such a way that the final output of the loss is minimum. To do that we calculate the gradient of each feature, and reduce accordingly.
 
-![[../../2_Images/gradient_descent_partial_derivative.jpeg|gradient_descent_partial_derivative.jpeg]]
+![gradient_descent_partial_derivative.jpeg](../../2_Images/gradient_descent_partial_derivative.jpeg)
 
 Now there are multiple types of Gradient Descent we can do based on the requirements.
 The types are:
@@ -39,7 +39,7 @@ The types are:
 
 - **Adam**: Combines Momentum and RMSProp, so it is usually fast, stable, and easy to use.
 
-![[../../2_Images/types_of_gd.jpeg|types_of_gd.jpeg]]
+![types_of_gd.jpeg](../../2_Images/types_of_gd.jpeg)
 
 Flowchart to demonstrate improvements of each gradient descent algorithm
-![[../../2_Images/Types_of_GD.drawio.png|Types_of_GD.drawio.png]]
+![Types_of_GD.drawio.png](../../2_Images/Types_of_GD.drawio.png)

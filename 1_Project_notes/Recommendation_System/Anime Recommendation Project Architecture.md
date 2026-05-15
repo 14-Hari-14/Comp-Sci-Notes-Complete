@@ -5,7 +5,7 @@ tags:
 ---
 # Anime Recommendation Project Architecture
 
-![[Anime Recommendation Project Architecture.svg]]
+![](Anime%20Recommendation%20Project%20Architecture.svg)
 
 ## Todo
 
