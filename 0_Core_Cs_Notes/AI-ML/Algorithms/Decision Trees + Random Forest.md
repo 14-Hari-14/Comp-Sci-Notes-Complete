@@ -59,5 +59,16 @@ Aggregation -> Combining the output of multiple models to get a better answer (K
 
 ## Bias-Variance Trade-off and Formula for Variance
 The trade-off refers to the fact that models with low bias will have high variance and vice versa. Tweaking either will affect the other, the exception of this being ensemble learning techniques.
+The formula to calculate variance of a random forest model is 
+Variance = $p*\sigma^2 + (1-p*\sigma^2)/n$
+
+$\sigma$ -> variance of 1 tree
+p -> correlation between 2 trees
+n -> number of trees in the random forest model
+
+Here the first term is the irreducible term that is the minimum amount of overfitting that will be present no matter what 
+The other term could be minimized by increasing the number of trees
+
+The major difference between Random Forest and Bagging aside from the fact the RF is a specialised Bagging is that when Random Forest model is being trained **Feature Sampling** for RF is done at each split whereas for bagging its done for each tree therefore RF has less correlation among trees
 
 ![](DT_Bagging_RF_bias_variance.jpeg)
