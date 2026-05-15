@@ -1,5 +1,6 @@
 Date: 2025-12-12
 Topics: #pydantic 
+Purpose:
 Link: 
 Class: [[]]
 

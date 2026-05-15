@@ -6355,9 +6355,11 @@ function caseInsensitiveTransform(attributes, property) {
 // node_modules/property-information/lib/xmlns.js
 var xmlns = create({
   space: "xmlns",
-  attributes: { xmlnsxlink: "xmlns:xlink" },
+  attributes: { xmlnsxPurpose:
+Link: "xmlns:xlink" },
   transform: caseInsensitiveTransform,
-  properties: { xmlns: null, xmlnsXLink: null }
+  properties: { xmlns: null, xmlnsXPurpose:
+Link: null }
 });
 
 // node_modules/property-information/lib/aria.js
@@ -6662,7 +6664,8 @@ var html = create({
     // See: https://html.spec.whatwg.org/#other-elements,-attributes-and-apis
     align: null,
     // Several. Use CSS `text-align` instead,
-    aLink: null,
+    aPurpose:
+Link: null,
     // `<body>`. Use CSS `a:active {color}` instead
     archive: spaceSeparated,
     // `<object>`. List of URIs to archives
@@ -6714,7 +6717,8 @@ var html = create({
     // `<img>` and `<object>`
     leftMargin: number,
     // `<body>`
-    link: null,
+    Purpose:
+Link: null,
     // `<body>`. Use CSS `a:link {color: *}` instead
     longDesc: null,
     // `<frame>`, `<iframe>`, and `<img>`. Use an `<a>`
@@ -6762,7 +6766,8 @@ var html = create({
     // `<html>`. Use a doctype.
     vAlign: null,
     // Several. Use CSS `vertical-align` instead
-    vLink: null,
+    vPurpose:
+Link: null,
     // `<body>`. Use CSS `a:visited {color}` instead
     vSpace: number,
     // `<img>` and `<object>`
@@ -7701,7 +7706,8 @@ var webNamespaces = {
   html: "http://www.w3.org/1999/xhtml",
   mathml: "http://www.w3.org/1998/Math/MathML",
   svg: "http://www.w3.org/2000/svg",
-  xlink: "http://www.w3.org/1999/xlink",
+  xPurpose:
+Link: "http://www.w3.org/1999/xlink",
   xml: "http://www.w3.org/XML/1998/namespace",
   xmlns: "http://www.w3.org/2000/xmlns/"
 };

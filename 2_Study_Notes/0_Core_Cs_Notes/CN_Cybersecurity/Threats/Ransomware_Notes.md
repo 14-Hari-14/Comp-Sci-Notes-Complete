@@ -1,5 +1,6 @@
 Date: 2026-01-21
 Topics: #ransomware #cybersecurity 
+Purpose:
 Link: 
 Class: [[]]
 

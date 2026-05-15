@@ -24,7 +24,8 @@
       --text-title-h5:              #E0E0E0;
       --text-title-h6:              #E0E0E0;
       --text-highlight-bg:          #640211;
-      --text-link:                  #83a598; 
+      --text-Purpose:
+Link:                  #83a598; 
       --text-a-hover:               #83a598; 
           --text-accent-hover:      #D49335;
  /* ^^^ added for hover over bracket internal links */
@@ -62,7 +63,8 @@ background-color: #483699;
          --text-title-h3:              #D49335;
          --text-title-h4:              #D49335;
          --text-title-h5:              #D49335;
-         --text-link:                  #D49335;
+         --text-Purpose:
+Link:                  #D49335;
          --text-a-hover:               #D49335;
          --text-accent-hover:          #D49335;
 /* ^^^ added for hover over bracket internal links */

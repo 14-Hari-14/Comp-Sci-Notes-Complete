@@ -1,5 +1,6 @@
 Date: 2025-12-12
 Topics: #backend #fast_api 
+Purpose:
 Link: 
 Class: [[]]
 

@@ -1,5 +1,6 @@
 Date: 2026-01-05
 Topics: #cybersecurity_basics 
+Purpose:
 Link: 
 Class: [[]]
 

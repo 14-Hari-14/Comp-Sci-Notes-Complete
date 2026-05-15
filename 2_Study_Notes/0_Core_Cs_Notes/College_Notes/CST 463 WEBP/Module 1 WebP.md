@@ -2,6 +2,7 @@
 
 Date: 2025-11-16
 Topics: #html #web_basics #web_development
+Purpose:
 Link: 
 Class: [[]]
 

@@ -1,5 +1,6 @@
 Date: 2025-11-07 
 Topics: #emulator #low_level_programming 
+Purpose:
 Link: https://web.archive.org/web/20200910001210/https://blog.ryanlevick.com/DMG-01/public/book/cpu/introduction.html 
 Class: [[EMULATOR]]
 

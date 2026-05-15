@@ -4,6 +4,7 @@ date:
   "{ date:YYYY-MM-DD }":
 ---
 
+Purpose:
 Link: [[Daily Note]]
 
 ---

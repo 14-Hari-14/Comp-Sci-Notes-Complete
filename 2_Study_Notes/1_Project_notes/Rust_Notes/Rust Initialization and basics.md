@@ -1,5 +1,6 @@
 Date: 2025-11-07
 Topics: #rust #basic_programming
+Purpose:
 Link: 
 Class: [[RUST]]
 

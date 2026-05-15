@@ -1,5 +1,6 @@
 Date: 2026-01-05
 Topics: #dos #cybersecurity #threat
+Purpose:
 Link: 
 Class: [[]]
 

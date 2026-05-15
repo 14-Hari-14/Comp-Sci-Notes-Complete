@@ -1305,7 +1305,8 @@ class Variable {
                 help_text: (this.help_text + " " + this.getAvailabilityText()).trim(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             // Unescaped version of the variable
             {
@@ -1313,7 +1314,8 @@ class Variable {
                 help_text: (this.help_text + " " + this.getAvailabilityText()).trim(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
     }
@@ -1630,21 +1632,24 @@ class Variable_CaretPosition extends EditorVariable {
                 help_text: "Gives the line number and column position of the current caret position as 'line:column'. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{" + this.variable_name + ":line}}",
                 help_text: "Gives the line number of the current caret position. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{" + this.variable_name + ":column}}",
                 help_text: "Gives the column number of the current caret position. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             // Unescaped variables
             {
@@ -1652,21 +1657,24 @@ class Variable_CaretPosition extends EditorVariable {
                 help_text: "Gives the line number and column position of the current caret position as 'line:column'. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{!" + this.variable_name + ":line}}",
                 help_text: "Gives the line number of the current caret position. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{!" + this.variable_name + ":column}}",
                 help_text: "Gives the column number of the current caret position. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
     }
@@ -2172,14 +2180,16 @@ class Variable_FileExtension extends FileVariable {
                 help_text: "Gives the current file name's ending without a preceding dot. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{" + this.variable_name + ":with-dot}}",
                 help_text: "Gives the current file name's ending with a preceding dot. If the extension is empty, no dot is included. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             // Unescaped variables
             {
@@ -2187,14 +2197,16 @@ class Variable_FileExtension extends FileVariable {
                 help_text: "Gives the current file name's ending without a preceding dot. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{!" + this.variable_name + ":with-dot}}",
                 help_text: "Gives the current file name's ending with a preceding dot. If the extension is empty, no dot is included. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
     }
@@ -2273,14 +2285,16 @@ class Variable_FilePath extends FileVariable {
                 help_text: "Gives path to the current file, absolute from the root of the file system. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{" + this.variable_name + ":relative}}",
                 help_text: "Gives path to the current file, relative from the root of the Obsidian vault. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             // Unescaped variables
             {
@@ -2288,14 +2302,16 @@ class Variable_FilePath extends FileVariable {
                 help_text: "Gives path to the current file, absolute from the root of the file system. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{!" + this.variable_name + ":relative}}",
                 help_text: "Gives path to the current file, relative from the root of the Obsidian vault. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
     }
@@ -2439,14 +2455,16 @@ class Variable_FolderPath extends FolderVariable {
                 help_text: "Gives path to the current file's parent folder, absolute from the root of the file system. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{" + this.variable_name + ":relative}}",
                 help_text: "Gives path to the current file's parent folder, relative from the root of the Obsidian vault. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             // Unescaped variables
             {
@@ -2454,14 +2472,16 @@ class Variable_FolderPath extends FolderVariable {
                 help_text: "Gives path to the current file's parent folder, absolute from the root of the file system. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{!" + this.variable_name + ":relative}}",
                 help_text: "Gives path to the current file's parent folder, relative from the root of the Obsidian vault. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
     }
@@ -2555,14 +2575,16 @@ class Variable_NewNoteFolderPath extends Variable {
                 help_text: "Gives path to the \"Default location for new notes\" folder (a setting in Obsidian), absolute from the root of the file system. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{" + this.variable_name + ":relative}}",
                 help_text: "Gives path to the \"Default location for new notes\" folder (a setting in Obsidian), relative from the root of the Obsidian vault. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             // Unescaped variables
             {
@@ -2570,14 +2592,16 @@ class Variable_NewNoteFolderPath extends Variable {
                 help_text: "Gives path to the \"Default location for new notes\" folder (a setting in Obsidian), absolute from the root of the file system. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{!" + this.variable_name + ":relative}}",
                 help_text: "Gives path to the \"Default location for new notes\" folder (a setting in Obsidian), relative from the root of the Obsidian vault. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
     }
@@ -2703,28 +2727,32 @@ class Variable_ObsidianAPIVersion extends Variable {
                 help_text: this.help_text + " " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: this.getFullName(false, "major"),
                 help_text: "Gives Obsidian's API version's first part, e.g. 1 from 1.5.3 .",
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: this.getFullName(false, "minor"),
                 help_text: "Gives Obsidian's API version's middle part, e.g. 5 from 1.5.3 .",
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: this.getFullName(false, "patch"),
                 help_text: "Gives Obsidian's API version's last part, e.g. 3 from 1.5.3 .",
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
         Variable.supplementAutocompleteItems(autocompleteItems);
@@ -2780,14 +2808,16 @@ class Variable_OperatingSystem extends Variable {
                 help_text: "Gives the current operating system's id code, i.e. \"darwin\" (= macOS), \"linux\", or \"win32\" (= Windows). Good for scripts as id comes from `navigator.platform` and is not likely to change. For a human-readable value, use :name instead." + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: this.getFullName(false, "name"),
                 help_text: "Gives the current operating system's human-readable name. As the OS names are defined in the SC plugin's source code, they might change if they need improving. If you need non-changing names, use :id instead." + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
         Variable.supplementAutocompleteItems(autocompleteItems);
@@ -2938,56 +2968,64 @@ class Variable_ShellCommandsPluginVersion extends Variable {
                 help_text: "Gives the Shell commands plugin's version.",
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: this.getFullName(false, ["plugin", "major"]),
                 help_text: "Gives the Shell commands plugin's version's first part, e.g. 0 from 0.22.1 .",
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: this.getFullName(false, ["plugin", "minor"]),
                 help_text: "Gives the Shell commands plugin's version's middle part, e.g. 22 from 0.22.1 .",
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: this.getFullName(false, ["plugin", "patch"]),
                 help_text: "Gives the Shell commands plugin's version's last part, e.g. 1 from 0.22.1 .",
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: this.getFullName(false, ["settings"]),
                 help_text: "Gives the Shell commands' settings structure version, which is not always increased with new plugin versions.",
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: this.getFullName(false, ["settings", "major"]),
                 help_text: "Gives the Shell commands' settings structure version's first part, e.g. 0 from 0.22.0 .",
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: this.getFullName(false, ["settings", "minor"]),
                 help_text: "Gives the Shell commands' settings structure version's middle part, e.g. 22 from 0.22.0 .",
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: this.getFullName(false, ["settings", "patch"]),
                 help_text: "Gives the Shell commands' settings structure version's last part, e.g. 0 from 0.22.0 . It hardly ever differs from 0.",
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
         Variable.supplementAutocompleteItems(autocompleteItems);
@@ -3207,14 +3245,16 @@ class Variable_YAMLContent extends FileVariable {
                 help_text: "Gives the current note's YAML frontmatter, wrapped between --- lines. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{" + this.variable_name + ":no-dashes}}",
                 help_text: "Gives the current note's YAML frontmatter, excluding top and bottom --- lines. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             // Unescaped variables
             {
@@ -3222,14 +3262,16 @@ class Variable_YAMLContent extends FileVariable {
                 help_text: "Gives the current note's YAML frontmatter, wrapped between --- lines." + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{!" + this.variable_name + ":no-dashes}}",
                 help_text: "Gives the current note's YAML frontmatter, excluding top and bottom --- lines. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
     }
@@ -4186,14 +4228,16 @@ class Variable_EventFileExtension extends EventVariable {
                 help_text: "Gives the event related file name's ending without a preceding dot. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{" + this.variable_name + ":with-dot}}",
                 help_text: "Gives the event related file name's ending with a preceding dot. If the extension is empty, no dot is included. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             // Unescaped variables
             {
@@ -4201,14 +4245,16 @@ class Variable_EventFileExtension extends EventVariable {
                 help_text: "Gives the event related file name's ending without a preceding dot. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{!" + this.variable_name + ":with-dot}}",
                 help_text: "Gives the event related file name's ending with a preceding dot. If the extension is empty, no dot is included. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
     }
@@ -4305,14 +4351,16 @@ class Variable_EventFilePath extends EventVariable {
                 help_text: "Gives path to the event related file, absolute from the root of the file system. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{" + this.variable_name + ":relative}}",
                 help_text: "Gives path to the event related file, relative from the root of the Obsidian vault. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             // Unescaped variables
             {
@@ -4320,14 +4368,16 @@ class Variable_EventFilePath extends EventVariable {
                 help_text: "Gives path to the event related file, absolute from the root of the file system. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{!" + this.variable_name + ":relative}}",
                 help_text: "Gives path to the event related file, relative from the root of the Obsidian vault. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
     }
@@ -4636,14 +4686,16 @@ class Variable_EventFolderPath extends EventVariable {
                 help_text: "File events: Gives path to the event related file's parent folder. Folder events: Gives path to the event related folder. The path is absolute from the root of the file system. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{" + this.variable_name + ":relative}}",
                 help_text: "File events: Gives path to the event related file's parent folder. Folder events: Gives path to the event related folder. The path is relative from the root of the Obsidian vault. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             // Unescaped variables
             {
@@ -4651,14 +4703,16 @@ class Variable_EventFolderPath extends EventVariable {
                 help_text: "File events: Gives path to the event related file's parent folder. Folder events: Gives path to the event related folder. The path is absolute from the root of the file system. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{!" + this.variable_name + ":relative}}",
                 help_text: "File events: Gives path to the event related file's parent folder. Folder events: Gives path to the event related folder. The path is relative from the root of the Obsidian vault. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
     }
@@ -4791,14 +4845,16 @@ class Variable_EventOldFilePath extends EventVariable {
                 help_text: "Gives the renamed/moved file's old path, absolute from the root of the file system. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{" + this.variable_name + ":relative}}",
                 help_text: "Gives the renamed/moved file's old path, relative from the root of the Obsidian vault. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             // Unescaped variables
             {
@@ -4806,14 +4862,16 @@ class Variable_EventOldFilePath extends EventVariable {
                 help_text: "Gives the renamed/moved file's old path, absolute from the root of the file system. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{!" + this.variable_name + ":relative}}",
                 help_text: "Gives the renamed/moved file's old path, relative from the root of the Obsidian vault. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
     }
@@ -4910,14 +4968,16 @@ class Variable_EventOldFolderPath extends EventVariable {
                 help_text: "File events: Gives the moved file's old parent folder's path. Folder events: Gives the renamed/moved folder's old path. The path is absolute from the root of the file system. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{" + this.variable_name + ":relative}}",
                 help_text: "File events: Gives the moved file's old parent folder's path. Folder events: Gives the renamed/moved folder's old path. The path is relative from the root of the Obsidian vault. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             // Unescaped variables
             {
@@ -4925,14 +4985,16 @@ class Variable_EventOldFolderPath extends EventVariable {
                 help_text: "File events: Gives the moved file's old parent folder's path. Folder events: Gives the renamed/moved folder's old path. The path is absolute from the root of the file system. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{!" + this.variable_name + ":relative}}",
                 help_text: "File events: Gives the moved file's old parent folder's path. Folder events: Gives the renamed/moved folder's old path. The path is relative from the root of the Obsidian vault. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
     }
@@ -5111,14 +5173,16 @@ class Variable_EventType extends EventVariable {
                 help_text: "Gives a name of the triggered event. Possible values: <code>" + EventTypes.join("</code> , <code>") + "</code>. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{" + this.variable_name + ":category}}",
                 help_text: "Gives a category of the triggered event. Multiple events can share the same category. Possible values: <code>" + EventCategories.join("</code> , <code>") + "</code>. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
         Variable.supplementAutocompleteItems(autocompleteItems);
@@ -5204,14 +5268,16 @@ class Variable_EventYAMLContent extends EventVariable {
                 help_text: "Gives the event related note's YAML frontmatter, wrapped between --- lines. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{" + this.variable_name + ":no-dashes}}",
                 help_text: "Gives the event related note's YAML frontmatter, excluding top and bottom --- lines. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "normal-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             // Unescaped variables
             {
@@ -5219,14 +5285,16 @@ class Variable_EventYAMLContent extends EventVariable {
                 help_text: "Gives the event related note's YAML frontmatter, wrapped between --- lines." + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
             {
                 value: "{{!" + this.variable_name + ":no-dashes}}",
                 help_text: "Gives the event related note's YAML frontmatter, excluding top and bottom --- lines. " + this.getAvailabilityText(),
                 group: "Variables",
                 type: "unescaped-variable",
-                documentationLink: this.getDocumentationLink(),
+                documentationPurpose:
+Link: this.getDocumentationLink(),
             },
         ];
     }

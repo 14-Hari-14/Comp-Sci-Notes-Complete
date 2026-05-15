@@ -1,5 +1,6 @@
 Date: 2026-05-14
 Topics: #gradient_descent #optimisation #derivatives #ai #ml 
+Purpose:
 Link: 
 Class: [[]]
 

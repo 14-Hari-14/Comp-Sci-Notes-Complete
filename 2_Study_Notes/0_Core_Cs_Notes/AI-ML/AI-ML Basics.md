@@ -1,5 +1,6 @@
 Date: 2025-12-05
 Topics: #ai 
+Purpose:
 Link: 
 Class: [[AI]]
 
