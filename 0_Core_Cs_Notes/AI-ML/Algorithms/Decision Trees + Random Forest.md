@@ -45,7 +45,14 @@ This happens because during training
 To solve this we use **PRUNING**
 Types
 - Pre-Pruning
+	- Set Max Depth
+	- Set Min Samples Per Split
+	- Set Min Samples Per Leaf
+	- Max Features
 - Post-Pruning
+	- Cost Complexity Pruning
+	- Reduced Error Pruning
+	- Minimum Impurity Decrease
 
 ![](DT_Pruning_1.jpeg)
 
