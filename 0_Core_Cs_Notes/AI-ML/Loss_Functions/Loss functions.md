@@ -47,7 +47,7 @@ This note is a small index of common algorithms and the loss functions or score 
 - No single common training loss
 - Often checked with [Log Loss](Log%20Loss.md) during evaluation
 
-## [[DBSCAN]]
+## [DBSCAN](../Algorithms/DBSCAN.md)
 
 - No direct loss function
 - Uses density rules and Euclidean Distance which is a subsection of [Minkowski distance](Minkowski%20distance.md)
