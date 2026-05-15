@@ -12,7 +12,7 @@ Deeper dive into machine learning algorithms and techniques.
 ## Key topics
 
 - Machine Learning overview
-- Types of learning ([[Supervised Learning]], unsupervised, reinforcement)
+- Types of learning ([[../../AI-ML/Supervised Learning|Supervised Learning]], unsupervised, reinforcement)
 - Common algorithms
 - Evaluation metrics
 
@@ -26,9 +26,9 @@ Deeper dive into machine learning algorithms and techniques.
 ## Related notes
 
 - [[Module 1 AI]] - Foundation
-- [[AI-ML Basics]] - Core concepts
-- [[Supervised Learning]] - Main approach
-- [[KNN]], [[Logistic Regression]], [[Naive Bayes]], [[Support Vector Machines (SVM)]]
+- [[../../AI-ML/AI-ML Basics|AI-ML Basics]] - Core concepts
+- [[../../AI-ML/Supervised Learning|Supervised Learning]] - Main approach
+- [[../../AI-ML/Algorithms/KNN|KNN]], [[../../AI-ML/Algorithms/Logistic Regression|Logistic Regression]], [[../../AI-ML/Algorithms/Naive Bayes|Naive Bayes]], [[../../AI-ML/Algorithms/Support Vector Machines (SVM)|Support Vector Machines (SVM)]]
 
 ---
 
@@ -92,7 +92,7 @@ Actions: Left , Right, Suck
 Transition Model: Actions are self explanatory and only moving left when in left, moving right when in right and suck when area clean will result in no change
 Goal Test: Checks if all area are clean 
 Path cost: Number of steps taken to reach goal state depends on initial state and path taken
-![[Vacumn_problem_state_space.png]]
+![[../../../2_Images/Vacumn_problem_state_space.png|Vacumn_problem_state_space.png]]
 
 Similarly use the 5 components of a well defined problem to answer for 8 queens and 8 puzzle as well.
 
@@ -127,7 +127,7 @@ Any search problem has 3 main components
 
 ## Types of search algorithm
 
-![[types of search algorithm.png]]
+![[../../../2_Images/types of search algorithm.png|types of search algorithm.png]]
 
 
 ## Uninformed Search
@@ -159,7 +159,7 @@ until the queue is empty or the solution is found continue the execution of the 
 			 repeat this procedure until the queue is empty
 
 
-![[bfs traversal.png]]
+![[../../../2_Images/bfs traversal.png|bfs traversal.png]]
 
 
 ### Uniform Cost Search
@@ -174,7 +174,7 @@ It uses a **priority queue** as the data structure and is expands nodes based on
 - It can get stuck in infinite loops
 - The time and space complexity are not ideal both are **O(b^[1+C/e])** here b is branching factor; C is the cost of optimal solution and e is the minimum step cost. Here is the link to a simple explanation of how the complexity is derived [here](https://stackoverflow.com/questions/19204682/time-complexity-of-uniform-cost-search)
 
-![[ucs traversal.png]]
+![[../../../2_Images/ucs traversal.png|ucs traversal.png]]
 ### DFS
 To solve issues with bfs and uniform cost search depth first search is used it uses a stack data structure, the algorithm is similar to bfs
 
@@ -186,7 +186,7 @@ To solve issues with bfs and uniform cost search depth first search is used it u
 - It may get trapped in an infinite loop
 - The solution provided may or may not be optimal
 
-![[dfs traversal.png]]
+![[../../../2_Images/dfs traversal.png|dfs traversal.png]]
 
 ### Depth Limited Search
 
@@ -203,7 +203,7 @@ The failure in this algorithm can happen in 2 ways
 - incomplete
 - may not find the optimal solution
 
-![[dls traversal.png]]
+![[../../../2_Images/dls traversal.png|dls traversal.png]]
 
 The time and space complexity remain the same instead of depth we use l which is the depth limit we set so Time: **O(b^l)** and Space: **O(bl)**
 
@@ -218,7 +218,7 @@ Its a combination of bfs and dfs, it places a limit and if the goal state isnt f
 **Disadvantages**
 - Repeats the work increasing the time complexity this is a tradeoff we have to accept to get reduced space complexity
 
-![[ids traversal.png]]
+![[../../../2_Images/ids traversal.png|ids traversal.png]]
 
 ### Summary of uninformed search
 

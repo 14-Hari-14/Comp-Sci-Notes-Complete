@@ -25,10 +25,10 @@ Introduction to artificial intelligence basics and concepts.
 
 ## Related notes
 
-- [[AI-ML Basics]] - Foundation concepts
+- [[../../AI-ML/AI-ML Basics|AI-ML Basics]] - Foundation concepts
 - [[Module 2 AI]] - Continuation of this module
-- [[Supervised Learning]] - Main ML paradigm
-- [[AI-ML Basics]]
+- [[../../AI-ML/Supervised Learning|Supervised Learning]] - Main ML paradigm
+- [[../../AI-ML/AI-ML Basics|AI-ML Basics]]
 
 ---
 ### What is AI and how to define it ?
@@ -143,9 +143,9 @@ Components of a learning agent are
 3. **Critic:** Compares the performance of the agent with standard metrics and that data is sent to the learning element
 4. **Problem Generator:** Decides on new actions to be performed by the agent which will allow the agent to gather more data
 
-![[Learning Agent Architecture.png]]
+![[../../../2_Images/Learning Agent Architecture.png|Learning Agent Architecture.png]]
 
 #### Representation
 The following figure shows how states are represented inside with increasing complexity
 
-![[State Representation.png]]
+![[../../../2_Images/State Representation.png|State Representation.png]]

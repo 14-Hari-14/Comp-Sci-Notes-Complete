@@ -17,7 +17,7 @@ This is done in the assumption that if the function is able to map the closest t
 |Linear Regression is susceptible to over-fitting but it can be avoided using some dimensionality reduction techniques, regularization (L1 and L2) techniques and cross-validation.|But then linear regression also looks at a relationship between the mean of the dependent variables and the independent variables. Just as the mean is not a complete description of a single variable, linear regression is not a complete description of relationships among variables.|
 
 
-![[Linear_Reg_1.jpeg]]![[Linear_Reg_2.jpeg|697]]
+![[../../../2_Images/Linear_Reg_1.jpeg|Linear_Reg_1.jpeg]]![[../../../2_Images/Linear_Reg_2.jpeg|697]]
 
 ### Types of Linear Regression
 
@@ -25,8 +25,8 @@ This is done in the assumption that if the function is able to map the closest t
 - **Multiple Linear Regression (MLR):** Uses multiple predictors (\(x_1, x_2, \dots, x_k\)) to predict a continuous outcome: \(y = \beta_0 + \beta_1x_1 + \dots + \beta_kx_k + \epsilon\).
 - **Polynomial Regression:** Models non-linear relationships by raising the independent variable to a power (e.g., \(x^{2}\), \(x^{3}\)) but remains linear in its coefficients.
 - **Stepwise Regression:** An automated method for selecting the most significant independent variables in an MLR model.
-- **Ridge/Lasso Regression:** Linear techniques that introduce [[regularisation]] to prevent overfitting in multiple regression.
+- **Ridge/Lasso Regression:** Linear techniques that introduce [[../regularisation|regularisation]] to prevent overfitting in multiple regression.
 
 It uses the loss function of 
-1. [[MSE]]
-2. [[MAE]]
+1. [[../Loss_Functions/MSE|MSE]]
+2. [[../Loss_Functions/MAE|MAE]]

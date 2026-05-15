@@ -62,8 +62,8 @@ Quick reference guide to navigate through Core Computer Science Notes organized 
 | [Logistic Regression.md](AI-ML/Algorithms/Logistic%20Regression.md)                             | #classification #supervised_ml             | Logistic regression for classification |
 | [Decision Trees + Random Forest.md](AI-ML/Algorithms/Decision%20Trees%20+%20Random%20Forest.md) | #algorithm #classification #regression     | Tree-based ensemble methods            |
 | [Support Vector Machines (SVM).md](AI-ML/Algorithms/Support%20Vector%20Machines%20(SVM).md)     | #algorithm #classification                 | SVM classification algorithm           |
-| [KNN.md](KNN.md)                                                                                | #algorithm                                 | K-Nearest Neighbors algorithm          |
-| [Naive Bayes.md](Naive%20Bayes.md)                                                              | #algorithm #classification                 | Naive Bayes classifier                 |
+| [KNN.md](AI-ML/Algorithms/KNN.md)                                                                                | #algorithm                                 | K-Nearest Neighbors algorithm          |
+| [Naive Bayes.md](AI-ML/Algorithms/Naive%20Bayes.md)                                                              | #algorithm #classification                 | Naive Bayes classifier                 |
 
 
 #### 📊 **Loss Functions Subfolder**
@@ -95,10 +95,10 @@ Quick reference guide to navigate through Core Computer Science Notes organized 
 | [Cybersecurity Basics.md](CN_Cybersecurity/Cybersecurity%20Basics.md)               | #cybersecurity_basics       | CIA Triad and security fundamentals |
 | [Access Control List (ACL).md](CN_Cybersecurity/Access%20Control%20List%20(ACL).md) | #security #access_control   | Access control mechanisms           |
 | [Packet Sniffing.md](CN_Cybersecurity/Packet%20Sniffing.md)                         | #attack #network_security   | Packet sniffing attack              |
-| [[DOS(Denial of service) & DDOS (Distributed DOS)]]                                 | #attack #dos_ddos           | DoS and DDoS attacks                |
-| [Phishing.md](Phishing.md)                                                          | #attack #social_engineering | Phishing attack vectors             |
-| [Botnet.md](Botnet.md)                                                              | #attack #malware            | Botnet attacks                      |
-| [DNS Tunneling.md](DNS%20Tunneling.md)                                              | #attack #dns                | DNS tunneling attacks               |
+| [[CN_Cybersecurity/Threats/DOS(Denial of service) & DDOS (Distributed DOS)|DOS(Denial of service) & DDOS (Distributed DOS)]]                                 | #attack #dos_ddos           | DoS and DDoS attacks                |
+| [Phishing.md](CN_Cybersecurity/Threats/Phishing.md)                                                          | #attack #social_engineering | Phishing attack vectors             |
+| [Botnet.md](CN_Cybersecurity/Threats/Botnet.md)                                                              | #attack #malware            | Botnet attacks                      |
+| [DNS Tunneling.md](CN_Cybersecurity/Threats/DNS%20Tunneling.md)                                              | #attack #dns                | DNS tunneling attacks               |
 | [Wireshark.md](CN_Cybersecurity/Wireshark.md)                                       | #tool #network_analysis     | Wireshark network analyzer tool     |
 
 #### 🔑 **Encryption Subfolder**

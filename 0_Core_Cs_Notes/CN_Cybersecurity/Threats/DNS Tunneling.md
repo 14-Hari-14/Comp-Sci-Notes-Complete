@@ -27,7 +27,7 @@ It is a technique where attackers hide data or commands inside regular DNS queri
 - Monitor unusual DNS activity and patterns
 - Block DNS queries going to suspicious domains
 - Use deep packet inspection to analyze DNS content
-- See [[Packet Sniffing]] for detection methods
+- See [[../Packet Sniffing|Packet Sniffing]] for detection methods
 
 ## Related
 

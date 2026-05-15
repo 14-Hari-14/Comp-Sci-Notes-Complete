@@ -9,16 +9,16 @@ Class: [[]]
 
 This note is a small index of common algorithms and the loss functions or score checks they usually use.
 
-## [[Linear Regression]]
+## [[../Algorithms/Linear Regression|Linear Regression]]
 
 - [[MSE]]
 - [[MAE]]
 
-## [[Logistic Regression]]
+## [[../Algorithms/Logistic Regression|Logistic Regression]]
 
 - [[Log Loss]]
 
-## [[Decision Trees + Random Forest]]
+## [[../Algorithms/Decision Trees + Random Forest|Decision Trees + Random Forest]]
 
 - [[Gini Impurity]]
 - [[Entropy]]
@@ -28,7 +28,7 @@ This note is a small index of common algorithms and the loss functions or score 
 - [[Gini Impurity]]
 - [[Entropy]]
 
-## [[XGBoost]]
+## [[../Algorithms/XGBoost|XGBoost]]
 
 - [[MSE]] for regression tasks
 - [[Log Loss]] for classification tasks
@@ -37,12 +37,12 @@ This note is a small index of common algorithms and the loss functions or score 
 
 - [[Hinge Loss]]
 
-## [[KNN]]
+## [[../Algorithms/KNN|KNN]]
 
 - No direct training loss
 - Uses [[Minkowski distance]] to compare points
 
-## [[Naive Bayes]]
+## [[../Algorithms/Naive Bayes|Naive Bayes]]
 
 - No single common training loss
 - Often checked with [[Log Loss]] during evaluation

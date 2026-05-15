@@ -44,7 +44,7 @@ Using the axiom of similar vectors (with similar meanings) point to the same dir
 
 The mathematical representation for cosine function would be 
 
-![[cosine similarity formula.png]]
+![[../../2_Images/cosine similarity formula.png|cosine similarity formula.png]]
 
 here the ||u|| or ||v|| refer to the magnitude of the vectors that is how long it is regardless of distance 
 

@@ -52,7 +52,7 @@ They can also be used to reference mail ids of people using "mailto:"
 
 #### Structure of URL
 
-![[structure_of_url.png]]
+![[../../../2_Images/structure_of_url.png|structure_of_url.png]]
 
 1. **Scheme**: States the protocol used to access the resource
 2. **Domain Name**: Name of the resource to be accessed
@@ -87,7 +87,7 @@ It describes the type of data format of the content that the server is transmitt
 
 mime labels the file with the **type: image, text, video, application** and the **subtype: png, html, mp4, json**
 
-![[imp_mime_types.png]]
+![[../../../2_Images/imp_mime_types.png|imp_mime_types.png]]
 
 
 ### Http Headers 
@@ -182,7 +182,7 @@ the image tag has multiple attributes that we can add like above which adds more
 
 no space required between & and text
 
-![[special character reference.png]]
+![[../../../2_Images/special character reference.png|special character reference.png]]
 
 
 ### Lists

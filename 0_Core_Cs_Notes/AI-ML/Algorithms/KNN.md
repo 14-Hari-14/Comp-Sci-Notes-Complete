@@ -9,7 +9,7 @@ Class: [[]]
 
 This basically predicts the value of a point using the points near it
 
-![[KNN Example.png]]
+![[../../../2_Images/KNN Example.png|KNN Example.png]]
 
 We can assume with some certainty that the green point will not own a car since most of the points **near** it (blue) don't own a car
 

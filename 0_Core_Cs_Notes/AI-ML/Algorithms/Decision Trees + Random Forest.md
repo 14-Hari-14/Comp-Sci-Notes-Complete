@@ -17,23 +17,23 @@ This algorithm tries to mimic human logical reasoning for example should you go 
 so similarly DT will split dataset into different trees
 There are different algorithms like ID3, CART, SLIQ, etc which use different implementation but the overall idea remains the same
 
-![](DT_1.jpeg)
+![](../../../2_Images/DT_1.jpeg)
 
 
 ## Entropy
-Defined here: [Entropy](Entropy.md) 
-![](DT_Entropy_2.jpeg)
+Defined here: [Entropy](../Loss_Functions/Entropy.md) 
+![](../../../2_Images/DT_Entropy_2.jpeg)
 
 
 ## Gini Impurity
 Gini Impurity is better computationally than Entropy because to calculate Impurity we only need to get the square of the probabilities however to get entropy we need to do log<sub>2</sub> calculations which take more time
 
-![](DT_Gini_3.jpeg)
+![](../../../2_Images/DT_Gini_3.jpeg)
 
 ## Decision Trees for Regression
-Since numerical data is continuous to split it we use [[MSE]] to calculate which point provides the least error 
+Since numerical data is continuous to split it we use [[../Loss_Functions/MSE|MSE]] to calculate which point provides the least error 
 We take the midpoints of each feature for each tuple and then check which midpoint provides the least error
-![](DT_Bin_Descretization_Regression.jpeg)
+![](../../../2_Images/DT_Bin_Descretization_Regression.jpeg)
 
 
 ## Problems with DT
@@ -54,7 +54,7 @@ Types
 	- Reduced Error Pruning
 	- Minimum Impurity Decrease
 
-![](DT_Pruning_1.jpeg)
+![](../../../2_Images/DT_Pruning_1.jpeg)
 
 ## Ensemble Learning
 Using a collective of models to solve a problem, its helpful because bringing together multiple low bias high variance models can reduce bias and variance therefore improving the performance
@@ -62,7 +62,7 @@ Using a collective of models to solve a problem, its helpful because bringing to
 Short for Bootstrapped Aggregation
 Bootstrapped -> Randomly sampling with Replacement (this is where the random from Random Forest comes from)
 Aggregation -> Combining the output of multiple models to get a better answer (Knowledge of the Crowd)
-![](DT_Pruning_bagging.jpeg)
+![](../../../2_Images/DT_Pruning_bagging.jpeg)
 
 ## Bias-Variance Trade-off and Formula for Variance
 The trade-off refers to the fact that models with low bias will have high variance and vice versa. Tweaking either will affect the other, the exception of this being ensemble learning techniques.
@@ -78,4 +78,4 @@ The other term could be minimized by increasing the number of trees
 
 The major difference between Random Forest and Bagging aside from the fact the RF is a specialised Bagging is that when Random Forest model is being trained **Feature Sampling** for RF is done at each split whereas for bagging its done for each tree therefore RF has less correlation among trees
 
-![](DT_Bagging_RF_bias_variance.jpeg)
+![](../../../2_Images/DT_Bagging_RF_bias_variance.jpeg)

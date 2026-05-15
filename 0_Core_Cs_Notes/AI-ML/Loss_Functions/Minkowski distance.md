@@ -17,5 +17,5 @@ Euclidean distance is the straight-line distance between two points.
 
 ## Used by
 
-- [[KNN]]
+- [[../Algorithms/KNN|KNN]]
 - [[DBSCAN]]

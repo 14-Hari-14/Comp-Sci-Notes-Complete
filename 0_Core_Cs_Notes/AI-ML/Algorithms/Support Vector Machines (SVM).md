@@ -5,7 +5,7 @@ Class: [[]]
 
 ---
 
-![[svm_1.jpeg]]
+![[../../../2_Images/svm_1.jpeg|svm_1.jpeg]]
 
 
 The center line (**hyperplane**) is used to divide the data into different clusters / classes. However there is some gap between the line and the data points closes to it that space is called margin
@@ -19,8 +19,8 @@ Disadvantages
 
 we are allowed to manipulate the axes to create a sort of projection when its hard to classify data using svms on default, this is known as the **Kernel Trick** since we applied a **kernel** here
 
-![[kernel trick 1.png]]
+![[../../../2_Images/kernel trick 1.png|kernel trick 1.png]]
 
 a kernel is any mathematical function which can map the data to a higher dimensional space
 
-![[kernel trick 2.png]]
+![[../../../2_Images/kernel trick 2.png|kernel trick 2.png]]

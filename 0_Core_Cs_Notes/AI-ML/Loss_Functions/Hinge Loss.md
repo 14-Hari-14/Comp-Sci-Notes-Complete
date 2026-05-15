@@ -17,4 +17,4 @@ Hinge Loss is a loss function used mainly with support vector machines.
 
 ## Used by
 
-- [[Support Vector Machines (SVM)]]
+- [[../Algorithms/Support Vector Machines (SVM)|Support Vector Machines (SVM)]]

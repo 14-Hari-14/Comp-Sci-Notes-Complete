@@ -36,7 +36,7 @@ Phishing is when attackers trick people into giving away their passwords or pers
 ## Related
 
 - [[Botnet]] - used for phishing campaigns
-- [[Cybersecurity Basics]] - part of common attacks
+- [[../Cybersecurity Basics|Cybersecurity Basics]] - part of common attacks
 - [[Ransomware_Notes]] - often started by phishing
 - See [[Ransomware_Prevention_Notes]] for prevention
 

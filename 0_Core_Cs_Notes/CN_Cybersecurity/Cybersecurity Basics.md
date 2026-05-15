@@ -21,7 +21,7 @@ Class: [[]]
 		1. Hashing Algorithms (SHA-26)
 3. Availability: Maintaining the service when required
 	1. How to break
-		1. [[DOS(Denial of service) & DDOS (Distributed DOS)]]
+		1. [[Threats/DOS(Denial of service) & DDOS (Distributed DOS)|DOS(Denial of service) & DDOS (Distributed DOS)]]
 		2. Ransomware
 	2. How to protect
 		1. Redundancy
@@ -31,13 +31,13 @@ Class: [[]]
 
 ## Common Attack Patterns
 1. Malware
-	1. [[Ransomware_Notes]]
+	1. [[Threats/Ransomware_Notes|Ransomware_Notes]]
 	2. Fileless malware
 	3. Spyware
 	4. Trojan
 	5. Worms
-	6. [[Botnet]]
-2. [[DOS(Denial of service) & DDOS (Distributed DOS)]]
+	6. [[Threats/Botnet|Botnet]]
+2. [[Threats/DOS(Denial of service) & DDOS (Distributed DOS)|DOS(Denial of service) & DDOS (Distributed DOS)]]
 3. Phishing
 4. Spoofing
 5. Identity
