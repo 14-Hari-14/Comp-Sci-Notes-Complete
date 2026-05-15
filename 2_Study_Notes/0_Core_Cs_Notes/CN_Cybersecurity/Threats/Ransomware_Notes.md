@@ -1,8 +1,19 @@
-Date: 2026-01-21
-Topics: #ransomware #cybersecurity 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-01-21
+topics:
+  - ransomware
+  - cybersecurity
+tags:
+  - ransomware
+  - not_petya
+  - wanna_cry
+aliases:
+  - ransomware
+  - case_study
+  - not_petya
+  - wanna_cry
+purpose: To analyse ransomware and its popular case studies
+---
 
 ---
 # **Ransomware General Notes**

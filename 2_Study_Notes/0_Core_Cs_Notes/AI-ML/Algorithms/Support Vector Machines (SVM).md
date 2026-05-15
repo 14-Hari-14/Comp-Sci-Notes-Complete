@@ -1,8 +1,16 @@
-Date: 2025-12-07
-Topics: #svm #supervised_ml #classification #algorithm 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2025-12-07
+topics:
+  - supervised_ml
+tags:
+  - svm
+  - classification
+  - algorithm
+aliases:
+  - SVM
+  - svm
+purpose: To explain the working of SVM algorithm
+---
 
 ---
 

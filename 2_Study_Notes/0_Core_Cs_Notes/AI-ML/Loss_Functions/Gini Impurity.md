@@ -1,8 +1,16 @@
-Date: 2026-05-14
-Topics: #loss_function #gini_impurity #decision_tree
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-14
+topics:
+  - loss_function
+  - gini_impurity
+tags:
+  - decision_tree
+  - loss_function
+  - gini_impurity
+aliases:
+  - Gini Impurity
+purpose: To define gini impurity and its usefullness
+---
 
 ---
 

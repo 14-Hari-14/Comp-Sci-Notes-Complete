@@ -1,8 +1,10 @@
-Date: 2025-12-06
-Topics: #naive_bayes #algorithm #supervised_ml 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2025-12-06
+topics: ["naive_bayes", "algorithm", "supervised_ml"]
+tags: []
+aliases: []
+purpose: ""
+---
 
 ---
 

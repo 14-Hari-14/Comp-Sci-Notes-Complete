@@ -1,3 +1,15 @@
+---
+created: 2026-05-15
+topics:
+  - data_analysis
+  - data_cleaning
+tags:
+  - EDA
+aliases:
+  - EDA
+  - data analysis
+purpose: To explain the steps in performing exploratory data analysis
+---
 
 There are a lot of images that I cant be bothered to transport to obsidian therefore this file contains a link to the google doc 
 

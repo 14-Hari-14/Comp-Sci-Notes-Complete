@@ -1,3 +1,11 @@
+---
+created:
+topics: []
+tags: []
+aliases: []
+purpose: ""
+---
+
 # Introduction
 
 Distributed File Systems (DFS) play a critical role in providing transparent, reliable, and scalable access to files across multiple machines in a networked environment. This assignment presents a detailed examination of two significant distributed file systems: the Andrew File System (AFS) and the Google File System (GFS), based entirely on the concepts covered in Module 5. Every aspect described in the lecture notes is included without omission. The study covers the background, architecture, components, file handling mechanisms, operations, key features, and design philosophies of both systems.

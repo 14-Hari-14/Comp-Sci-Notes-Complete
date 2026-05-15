@@ -1,8 +1,15 @@
-Date: 2026-01-05
-Topics: #dos #cybersecurity #threat
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-01-05
+topics:
+  - cybersecurity
+  - threat
+tags:
+  - dos
+aliases:
+  - dos
+  - denial_of_service
+purpose: To explain dos and ddos attacks and their difference
+---
 
 ---
 

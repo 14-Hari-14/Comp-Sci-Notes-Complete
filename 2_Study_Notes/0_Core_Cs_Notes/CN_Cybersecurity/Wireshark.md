@@ -1,8 +1,14 @@
-Date: 2026-05-14
-Topics: #wireshark #network_analysis #cybersecurity
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-14
+topics:
+  - wireshark
+  - network_analysis
+  - cybersecurity
+tags:
+  - wireshark
+aliases: []
+purpose: To explain the purpose of wireshark
+---
 
 ---
 

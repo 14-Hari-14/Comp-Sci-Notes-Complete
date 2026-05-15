@@ -1,8 +1,17 @@
-Date: 2026-05-14
-Topics: #loss_function #mse #regression
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-14
+topics:
+  - loss_function
+tags:
+  - mse
+  - regression
+  - loss_function
+aliases:
+  - MSE
+  - mse
+  - Mean Squared Error
+purpose: To explain mse loss function
+---
 
 ---
 

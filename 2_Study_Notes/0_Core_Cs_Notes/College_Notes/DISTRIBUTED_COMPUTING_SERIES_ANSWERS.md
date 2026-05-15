@@ -1,7 +1,10 @@
-Date: 2026-03-24
-Topics: #distributed_systems #exam_answers #college
-Link:
-Class: [[]]
+---
+created: 2026-03-24
+topics: ["distributed_systems", "exam_answers", "college"]
+tags: []
+aliases: []
+purpose: ""
+---
 
 ---
 

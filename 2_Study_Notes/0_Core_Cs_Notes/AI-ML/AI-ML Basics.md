@@ -1,8 +1,16 @@
-Date: 2025-12-05
-Topics: #ai 
-Purpose:
-Link: 
-Class: [[AI]]
+---
+created: 2025-12-05
+topics:
+  - ai
+  - ml
+  - supervised_ml
+  - unsupervised_ml
+tags:
+  - algorithm
+  - directory
+aliases: []
+purpose: To act as a directory for types of ml and their algorithms
+---
 
 ---
 
@@ -32,14 +40,15 @@ the split can be 60/20/20 or 80/10/10
 ## ML Training Process
 
 ![process_of_ml_training.jpeg](../../2_Images/process_of_ml_training.jpeg)
-## Loss function
+## [Loss functions](Loss_Functions/Loss%20functions.md)
 
 **Loss** is a measure of how accurate the model is or how close the predicted value of the model is to the output
 
 A few examples of different loss functions are 
 - **L1**: Mean Absolute Error **(MAE)** 
 - **L2**: Mean Squared Error **(MSE)**
-- **Binary Cross Entropy Loss**: Used for binary classifications
+- **Binary Cross Entropy Loss**: Used for binary classifications used by XGboost
+
 
 
 ## Precision and Recall

@@ -1,8 +1,14 @@
-Date: 2026-01-05
-Topics: #dns_tunneling #cybersecurity #threat 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-01-05
+topics:
+  - cybersecurity
+  - threat
+tags:
+  - dns_tunneling
+aliases:
+  - DNS tunneling
+purpose: To explain DNS tunneling technique
+---
 
 ---
 

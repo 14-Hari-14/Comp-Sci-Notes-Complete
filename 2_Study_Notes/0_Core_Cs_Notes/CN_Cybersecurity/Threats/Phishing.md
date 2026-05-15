@@ -1,8 +1,14 @@
-Date: 2026-01-05
-Topics: #phishing #cybersecurity #threat 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-01-05
+topics:
+  - cybersecurity
+  - threat
+tags:
+  - phishing
+aliases:
+  - Phising
+purpose: To explain phishing attacks
+---
 
 ---
 

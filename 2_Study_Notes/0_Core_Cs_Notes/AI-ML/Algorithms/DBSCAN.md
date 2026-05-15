@@ -1,8 +1,15 @@
-Date: 2026-05-15
-Topics: #unsupervised_ml  #clustering #algorithm 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-15
+topics:
+  - unsupervised_ml
+tags:
+  - clustering
+  - algorithm
+aliases:
+  - DBSCAN
+  - dbscan
+purpose: To explain the working of dbscan algorithm
+---
 
 ---
 

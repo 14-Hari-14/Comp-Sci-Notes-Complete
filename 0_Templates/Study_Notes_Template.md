@@ -1,8 +1,7 @@
-Date: {{date}}
-Topics: #
-Purpose:
-Link: 
-Class: [[]]
-Purpose: 
-
+---
+created: {{date}}
+topics: []
+tags: []
+purpose: ""
+aliases: []
 ---

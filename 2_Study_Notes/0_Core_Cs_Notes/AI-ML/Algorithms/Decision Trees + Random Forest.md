@@ -1,8 +1,20 @@
-Date: 2026-05-14
-Topics: #ensemble_learning #decision_tree #random_forest #supervised_ml #classification #regression #algorithm 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-14
+topics:
+  - ensemble_learning
+  - supervised_ml
+tags:
+  - decision_tree
+  - random_forest
+  - classification
+  - regression
+  - algorithm
+aliases:
+  - Random forest
+  - RF
+  - DT
+purpose: To explain about bagging random forest and bias variance trade-off
+---
 
 ---
 Decision Tree algorithm can be used for both classification and regression tasks depending upon the implementation.

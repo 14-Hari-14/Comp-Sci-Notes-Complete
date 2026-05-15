@@ -1,8 +1,18 @@
-Date: 2026-05-14
-Topics: #loss_functions #ai #ml
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-14
+topics:
+  - loss_functions
+  - ai
+  - ml
+  - supervised_ml
+tags:
+  - supervised_ml
+  - directory
+aliases:
+  - Loss functions
+  - loss functions
+purpose: To act as a directory to see all loss functions studied till now
+---
 
 ---
 

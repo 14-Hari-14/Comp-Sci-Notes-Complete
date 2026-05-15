@@ -1,8 +1,21 @@
-Date: 2026-05-14
-Topics: #gradient_descent #optimisation #derivatives #ai #ml 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-14
+topics:
+  - gradient_descent
+  - optimisation
+  - ai
+  - ml
+tags:
+  - gradient_descent
+  - optimisation
+  - ai
+  - ml
+  - derivatives
+aliases:
+  - GD
+  - Gradient Descent
+purpose: To explain Gradient Descent and its types
+---
 
 ---
 As mentioned before any given model has 3 components 

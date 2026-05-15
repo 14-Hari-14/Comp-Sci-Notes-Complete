@@ -1,8 +1,16 @@
-Date: 2025-12-06
-Topics: #knn #algorithm #unsupervised_ml #clustering 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2025-12-06
+topics:
+  - unsupervised_ml
+tags:
+  - knn
+  - algorithm
+  - clustering
+aliases:
+  - KNN
+  - knn
+purpose: To explain the working of knn algorithm
+---
 
 ---
 

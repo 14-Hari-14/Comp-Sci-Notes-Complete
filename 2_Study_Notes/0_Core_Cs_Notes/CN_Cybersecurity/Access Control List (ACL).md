@@ -1,8 +1,14 @@
-Date: 2026-01-05
-Topics: #acl #cybersecurity 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-01-05
+topics:
+  - cybersecurity
+tags:
+  - ACL
+  - acl
+aliases:
+  - ACL
+purpose: To explain ACL
+---
 
 ---
 

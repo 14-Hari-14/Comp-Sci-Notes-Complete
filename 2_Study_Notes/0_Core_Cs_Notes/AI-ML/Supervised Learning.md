@@ -1,8 +1,16 @@
-Date: 2025-12-05
-Topics: #supervised_ml
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2025-12-05
+topics:
+  - supervised_ml
+tags:
+  - directory
+  - supervised_ml
+  - classification
+  - regression
+aliases:
+  - Supervised Learning
+purpose: To act as a directory for supervised learning algorithms
+---
 
 ---
 
@@ -34,12 +42,12 @@ The core components for this type of learning are
 - Multi-label: Document topic tagging
 **Common Algorithms**:
 - [Logistic Regression](Algorithms/Logistic%20Regression.md)
-- Decision Trees
-- Random Forests
+- [Decision Trees + Random Forest](Algorithms/Decision%20Trees%20+%20Random%20Forest.md) (for classification)
 - [Support Vector Machines (SVM)](Algorithms/Support%20Vector%20Machines%20(SVM).md)
 - Neural Networks
 - [KNN](Algorithms/KNN.md)
 - [Naive Bayes](Algorithms/Naive%20Bayes.md)
+- [Boosting](Algorithms/Boosting.md) (for classification)
 
 
 ### 2. **Regression**
@@ -52,9 +60,9 @@ The core components for this type of learning are
 
 **Common Algorithms**:
 -  [Linear Regression](Algorithms/Linear%20Regression.md)
-- Polynomial Regression
-- Decision Trees (for regression)
-- Gradient Boosting
+- Polynomial Regression (in the linear regression link)
+- [Decision Trees + Random Forest](Algorithms/Decision%20Trees%20+%20Random%20Forest.md) (for regression)
+- [[Boosting]]
 
 
 

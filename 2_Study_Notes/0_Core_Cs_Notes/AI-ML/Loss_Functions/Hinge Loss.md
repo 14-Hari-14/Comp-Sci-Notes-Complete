@@ -1,8 +1,10 @@
-Date: 2026-05-14
-Topics: #loss_function #hinge_loss #classification
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-14
+topics: ["loss_function", "hinge_loss", "classification"]
+tags: []
+aliases: []
+purpose: ""
+---
 
 ---
 

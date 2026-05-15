@@ -1,8 +1,18 @@
-Date: 2025-12-07
-Topics: #log_reg #supervised_ml #classification #convexity #algorithm 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2025-12-07
+topics:
+  - supervised_ml
+tags:
+  - log_reg
+  - classification
+  - convexity
+  - algorithm
+aliases:
+  - log_reg
+  - logistic regression
+  - log reg
+purpose: To explain logistic regression, convexity and LBFGS
+---
 
 ---
 Logisitic regression uses linear regression as a base and then sends the output of linear regression through a **SIGMOID function** which squashes the output to a range of 0-1 

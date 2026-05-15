@@ -1,8 +1,20 @@
-Date: 2026-05-15
-Topics: #boosting #xgboost #classification #supervised_ml #regression #ensemble_learning #algorithm 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-15
+topics:
+  - supervised_ml
+  - ensemble_learning
+tags:
+  - boosting
+  - xgboost
+  - classification
+  - regression
+  - algorithm
+aliases:
+  - XGB
+  - XGBoost
+  - XGBOOST
+purpose: To explain the working of the XGBoost algorithm
+---
 
 ---
 

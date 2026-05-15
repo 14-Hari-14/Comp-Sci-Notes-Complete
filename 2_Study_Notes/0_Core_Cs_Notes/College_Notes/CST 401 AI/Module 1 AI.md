@@ -1,8 +1,10 @@
-Date: 2025-11-10
-Topics: #ai #clg_notes
-Purpose:
-Link: 
-Class: [[AI]]
+---
+created: 2025-11-10
+topics: ["ai", "clg_notes"]
+tags: []
+aliases: []
+purpose: ""
+---
 
 ---
 

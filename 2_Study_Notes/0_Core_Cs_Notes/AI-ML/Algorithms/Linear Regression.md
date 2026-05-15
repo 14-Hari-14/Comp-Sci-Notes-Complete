@@ -1,8 +1,17 @@
-Date: 2026-05-14
-Topics: #supervised_ml #linear_reg #regression #algorithm 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-14
+topics:
+  - supervised_ml
+tags:
+  - linear_reg
+  - regression
+  - algorithm
+aliases:
+  - lin_reg
+  - Linear Regression
+  - Lin_Reg
+purpose: To explain the working of linear regression and its types
+---
 
 ---
 Linear Regression as the name suggests is a regression algorithm where the goal of the model is to find such a function which maps the closest to the data points. This function is represented as a line for data points with only 1 features and turns into a plane for 2 and so on as the dimensions change.

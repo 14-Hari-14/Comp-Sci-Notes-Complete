@@ -1,8 +1,12 @@
-Date: 2026-01-05
-Topics: #cybersecurity_basics 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-01-05
+topics:
+  - cybersecurity_basics
+tags:
+  - directory
+aliases: []
+purpose: To act as a directory for cyber attacks and also explain basic concepts like CIA triad
+---
 
 ---
 

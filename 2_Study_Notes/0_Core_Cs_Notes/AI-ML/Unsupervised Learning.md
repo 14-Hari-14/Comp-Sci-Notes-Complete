@@ -1,7 +1,9 @@
-Date: 2026-05-15
-Topics: #unsupervised_ml  
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-15
+topics: ["unsupervised_ml"]
+tags: []
+aliases: []
+purpose: ""
+---
 
 ---

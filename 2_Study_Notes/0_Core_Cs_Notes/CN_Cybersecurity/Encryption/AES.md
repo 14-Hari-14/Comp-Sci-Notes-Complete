@@ -1,8 +1,15 @@
-Date: 2026-05-14
-Topics: #symmetric_encryption #aes #encryption 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-14
+topics:
+  - symmetric_encryption
+tags:
+  - aes
+  - encryption
+aliases:
+  - AES
+  - Advanced Encryption Standard
+purpose: To explain the AES algorithm
+---
 
 ---
 

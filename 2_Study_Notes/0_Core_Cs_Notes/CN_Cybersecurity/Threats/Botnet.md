@@ -1,8 +1,14 @@
-Date: 2026-01-05
-Topics: #botnet #cybersecurity #threat 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-01-05
+topics:
+  - cybersecurity
+  - threat
+tags:
+  - botnet
+aliases:
+  - botnet
+purpose: To explain botnet
+---
 
 ---
 

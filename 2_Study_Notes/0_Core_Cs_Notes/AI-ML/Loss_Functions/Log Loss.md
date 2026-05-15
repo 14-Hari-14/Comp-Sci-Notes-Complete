@@ -1,8 +1,18 @@
-Date: 2026-05-14
-Topics: #loss_function #log_loss #classification
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-14
+topics:
+  - loss_function
+  - log_loss
+tags:
+  - log_loss
+  - loss_function
+  - log_reg
+  - classification
+aliases:
+  - Log Loss
+  - log loss
+purpose: To define log loss and why its used
+---
 
 ---
 

@@ -1,8 +1,12 @@
-Date: 2026-01-05
-Topics: #packet_sniffing
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-01-05
+topics:
+  - packet_sniffing
+tags:
+  - packet_sniffing
+aliases: []
+purpose: To explain packet sniffing
+---
 
 ---
 

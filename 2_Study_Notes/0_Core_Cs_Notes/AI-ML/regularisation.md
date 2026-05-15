@@ -1,8 +1,19 @@
-Date: 2026-05-14
-Topics: #ml #regularisation #linear_reg 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-14
+topics:
+  - ml
+  - regularisation
+tags:
+  - regularisation
+  - linear_reg
+  - ml
+aliases:
+  - Lasso
+  - Ridge
+  - L1_regularisation
+  - L2_regularisation
+purpose: To explain l1 and l2 regularisation lasso and ridge regression
+---
 
 ---
 

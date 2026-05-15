@@ -1,8 +1,16 @@
-Date: 2026-05-14
-Topics: #loss_function #entropy #decision_tree
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-14
+topics:
+  - loss_function
+  - entropy
+tags:
+  - loss_function
+  - entropy
+  - decision_tree
+aliases:
+  - Entropy
+purpose: To derive the working of entropy and why its useful
+---
 
 ---
 

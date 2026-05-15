@@ -1,8 +1,20 @@
-Date: 2026-05-14
-Topics: #distance_metric #knn #clustering
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-14
+topics:
+  - distance_metric
+tags:
+  - knn
+  - pan
+  - distance_metric
+  - clustering
+aliases:
+  - Minkowski Distance
+  - l1 Norm
+  - l2 Norm
+  - euclidean distance
+  - manhattan distance
+purpose: To explain minkowski distance and l1 and l2 norm
+---
 
 ---
 

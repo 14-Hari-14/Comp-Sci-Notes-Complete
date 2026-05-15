@@ -1,8 +1,17 @@
-Date: 2026-05-14
-Topics: #loss_function #mae #regression
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-14
+topics:
+  - loss_function
+  - mae
+tags:
+  - loss_function
+  - mae
+  - regression
+aliases:
+  - MAE
+  - Mean Absolute Error
+purpose: To explain mae loss function
+---
 
 ---
 

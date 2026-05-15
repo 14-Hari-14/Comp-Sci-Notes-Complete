@@ -1,8 +1,19 @@
-Date: 2026-05-15
-Topics: #boosting #ensemble_learning #supervised_ml #classification #regression #algorithm 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2026-05-15
+topics:
+  - ensemble_learning
+  - supervised_ml
+tags:
+  - boosting
+  - algorithm
+  - classification
+  - regression
+aliases:
+  - boosting
+  - gradient boosting
+  - adaboost
+purpose: To give an introduction for boosting and its types
+---
 
 ---
 ## Boosting
