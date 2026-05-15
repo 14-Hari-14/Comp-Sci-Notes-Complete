@@ -13,7 +13,7 @@ Using computers to find a pattern between data and output.
 
 ### [Supervised Learning](Supervised%20Learning.md)
 
-### [[Unsupervised Learning]]
+### [Unsupervised Learning](Unsupervised%20Learning.md)
 
 ### [[Reinforcement Learning]]
 

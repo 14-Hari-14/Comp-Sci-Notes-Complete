@@ -3,5 +3,6 @@
   "vimMode": true,
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "2_Study_Notes/2_Images"
+  "attachmentFolderPath": "2_Study_Notes/2_Images",
+  "newFileLocation": "current"
 }

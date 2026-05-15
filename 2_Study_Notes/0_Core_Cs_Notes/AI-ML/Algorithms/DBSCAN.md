@@ -1,5 +1,5 @@
 Date: 2026-05-15
-Topics: #unsupervise_learning #clustering #algorithm 
+Topics: #unsupervised_ml  #clustering #algorithm 
 Link: 
 Class: [[]]
 
