@@ -1,0 +1,7 @@
+# Ignore Daily Notes
+1_Daily_Notes_Folder/
+
+# Ignore workspace-specific Obsidian junk (prevents sync conflicts)
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/cache/

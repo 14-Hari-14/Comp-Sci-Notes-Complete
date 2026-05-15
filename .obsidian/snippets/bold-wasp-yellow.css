@@ -1,0 +1,8 @@
+
+/* Force bold text color override for the Wasp theme */
+.markdown-preview-view strong,
+.markdown-preview-view b,
+.cm-strong {
+  color: #ff9500 !important; /* change this color to whatever you want */
+  font-weight: 700 !important;
+}

@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "",
+  "accentColor": "#b59dfd",
+  "enabledCssSnippets": [
+    "bold"
+  ],
+  "baseFontSize": 19
+}
