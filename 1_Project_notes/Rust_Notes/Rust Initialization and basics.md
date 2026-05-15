@@ -42,8 +42,8 @@ fn main() {
 
 ## Related notes
 
-- [[Basic Data Types in Rust]] - Data types
-- [[Rust Roadmap]] - Learning path
+- [Basic Data Types in Rust](Basic%20Data%20Types%20in%20Rust.md) - Data types
+- [Rust Roadmap](Rust%20Roadmap.md) - Learning path
 - See Rust documentation for more details
 
 ---

@@ -17,5 +17,5 @@ Mean Squared Error (MSE) is a loss function used for regression.
 
 ## Used by
 
-- [[../Algorithms/Linear Regression|Linear Regression]]
-- [[../Algorithms/XGBoost|XGBoost]] for regression tasks
+- [Linear Regression](../Algorithms/Linear%20Regression.md)
+- [XGBoost](../Algorithms/XGBoost.md) for regression tasks

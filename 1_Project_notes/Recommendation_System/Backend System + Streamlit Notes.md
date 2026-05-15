@@ -17,10 +17,10 @@ The backend pipeline in the project has 5 parts to it
 
 The 3 main packages involved in the whole pipeline are
 
-## **[[Fastapi]]:** package to create a backend
-## **[[Pydantic]]:** package to check data and format validity
+## **[Fastapi](Fastapi.md):** package to create a backend
+## **[Pydantic](Pydantic.md):** package to check data and format validity
 
-## **[[Uvicorn]]:** creates a high performance server for python code (ASGI) **Asynchronous Server Gateway Interface** 
+## **[Uvicorn](Uvicorn.md):** creates a high performance server for python code (ASGI) **Asynchronous Server Gateway Interface** 
 
 
 

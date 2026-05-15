@@ -9,45 +9,45 @@ Class: [[]]
 
 This note is a small index of common algorithms and the loss functions or score checks they usually use.
 
-## [[../Algorithms/Linear Regression|Linear Regression]]
+## [Linear Regression](../Algorithms/Linear%20Regression.md)
 
-- [[MSE]]
-- [[MAE]]
+- [MSE](MSE.md)
+- [MAE](MAE.md)
 
-## [[../Algorithms/Logistic Regression|Logistic Regression]]
+## [Logistic Regression](../Algorithms/Logistic%20Regression.md)
 
-- [[Log Loss]]
+- [Log Loss](Log%20Loss.md)
 
-## [[../Algorithms/Decision Trees + Random Forest|Decision Trees + Random Forest]]
+## [Decision Trees + Random Forest](../Algorithms/Decision%20Trees%20+%20Random%20Forest.md)
 
-- [[Gini Impurity]]
-- [[Entropy]]
+- [Gini Impurity](Gini%20Impurity.md)
+- [Entropy](Entropy.md)
 
 ## [[Random Forest]]
 
-- [[Gini Impurity]]
-- [[Entropy]]
+- [Gini Impurity](Gini%20Impurity.md)
+- [Entropy](Entropy.md)
 
-## [[../Algorithms/XGBoost|XGBoost]]
+## [XGBoost](../Algorithms/XGBoost.md)
 
-- [[MSE]] for regression tasks
-- [[Log Loss]] for classification tasks
+- [MSE](MSE.md) for regression tasks
+- [Log Loss](Log%20Loss.md) for classification tasks
 
 ## [[SVM]]
 
-- [[Hinge Loss]]
+- [Hinge Loss](Hinge%20Loss.md)
 
-## [[../Algorithms/KNN|KNN]]
+## [KNN](../Algorithms/KNN.md)
 
 - No direct training loss
-- Uses [[Minkowski distance]] to compare points
+- Uses [Minkowski distance](Minkowski%20distance.md) to compare points
 
-## [[../Algorithms/Naive Bayes|Naive Bayes]]
+## [Naive Bayes](../Algorithms/Naive%20Bayes.md)
 
 - No single common training loss
-- Often checked with [[Log Loss]] during evaluation
+- Often checked with [Log Loss](Log%20Loss.md) during evaluation
 
 ## [[DBSCAN]]
 
 - No direct loss function
-- Uses density rules and Euclidean Distance which is a subsection of [[Minkowski distance]]
+- Uses density rules and Euclidean Distance which is a subsection of [Minkowski distance](Minkowski%20distance.md)

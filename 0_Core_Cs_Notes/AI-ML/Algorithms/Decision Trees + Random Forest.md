@@ -31,7 +31,7 @@ Gini Impurity is better computationally than Entropy because to calculate Impuri
 ![](../../../2_Images/DT_Gini_3.jpeg)
 
 ## Decision Trees for Regression
-Since numerical data is continuous to split it we use [[../Loss_Functions/MSE|MSE]] to calculate which point provides the least error 
+Since numerical data is continuous to split it we use [MSE](../Loss_Functions/MSE.md) to calculate which point provides the least error 
 We take the midpoints of each feature for each tuple and then check which midpoint provides the least error
 ![](../../../2_Images/DT_Bin_Descretization_Regression.jpeg)
 

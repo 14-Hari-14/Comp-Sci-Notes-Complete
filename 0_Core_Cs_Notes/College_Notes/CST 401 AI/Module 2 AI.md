@@ -12,7 +12,7 @@ Deeper dive into machine learning algorithms and techniques.
 ## Key topics
 
 - Machine Learning overview
-- Types of learning ([[../../AI-ML/Supervised Learning|Supervised Learning]], unsupervised, reinforcement)
+- Types of learning ([Supervised Learning](../../AI-ML/Supervised%20Learning.md), unsupervised, reinforcement)
 - Common algorithms
 - Evaluation metrics
 
@@ -25,17 +25,17 @@ Deeper dive into machine learning algorithms and techniques.
 
 ## Related notes
 
-- [[Module 1 AI]] - Foundation
-- [[../../AI-ML/AI-ML Basics|AI-ML Basics]] - Core concepts
-- [[../../AI-ML/Supervised Learning|Supervised Learning]] - Main approach
-- [[../../AI-ML/Algorithms/KNN|KNN]], [[../../AI-ML/Algorithms/Logistic Regression|Logistic Regression]], [[../../AI-ML/Algorithms/Naive Bayes|Naive Bayes]], [[../../AI-ML/Algorithms/Support Vector Machines (SVM)|Support Vector Machines (SVM)]]
+- [Module 1 AI](Module%201%20AI.md) - Foundation
+- [AI-ML Basics](../../AI-ML/AI-ML%20Basics.md) - Core concepts
+- [Supervised Learning](../../AI-ML/Supervised%20Learning.md) - Main approach
+- [KNN](../../AI-ML/Algorithms/KNN.md), [Logistic Regression](../../AI-ML/Algorithms/Logistic%20Regression.md), [Naive Bayes](../../AI-ML/Algorithms/Naive%20Bayes.md), [Support Vector Machines (SVM)](../../AI-ML/Algorithms/Support%20Vector%20Machines%20(SVM).md)
 
 ---
 
 ## Problem solving Agents  
 
-**Problem Solving** are a type of goal-based agents that uses an [[Module 1 AI#Representation|atomic representation]]
-Goal-based agents that use [[Module 1 AI#Representation|factored]] or [[Module 1 AI#Representation|structured]] are called **planning agents**
+**Problem Solving** are a type of goal-based agents that uses an [atomic representation](Module%201%20AI.md#Representation)
+Goal-based agents that use [factored](Module%201%20AI.md#Representation) or [structured](Module%201%20AI.md#Representation) are called **planning agents**
 
 ### Components for Problem Solving
 To solve any problem we need to perform the following steps

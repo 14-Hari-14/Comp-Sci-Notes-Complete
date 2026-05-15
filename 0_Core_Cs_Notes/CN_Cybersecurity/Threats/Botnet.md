@@ -8,7 +8,7 @@ Class: [[]]
 Botnet: group of computers which have been infected by malware and have come under the control of a malicious actor.
 This makes them very useful for
 1. [[Ransomware]]
-2. [[DOS(Denial of service) & DDOS (Distributed DOS)]]
+2. [DOS(Denial of service) & DDOS (Distributed DOS)](DOS(Denial%20of%20service)%20&%20DDOS%20(Distributed%20DOS).md)
 
 Due to their flexibility they can have different levels of visibility some ddos botnet malware is designed to take control of the device while other wait for the **bot herder** to provide them with instructions
 

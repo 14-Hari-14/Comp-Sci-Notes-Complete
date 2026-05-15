@@ -17,4 +17,4 @@ Mean Absolute Error (MAE) is a loss function used for regression.
 
 ## Used by
 
-- [[../Algorithms/Linear Regression|Linear Regression]]
+- [Linear Regression](../Algorithms/Linear%20Regression.md)

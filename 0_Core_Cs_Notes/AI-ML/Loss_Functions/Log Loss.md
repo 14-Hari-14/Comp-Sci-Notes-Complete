@@ -17,5 +17,5 @@ Log Loss is a loss function used for classification.
 
 ## Used by
 
-- [[../Algorithms/Logistic Regression|Logistic Regression]]
-- [[../Algorithms/XGBoost|XGBoost]] for classification tasks
+- [Logistic Regression](../Algorithms/Logistic%20Regression.md)
+- [XGBoost](../Algorithms/XGBoost.md) for classification tasks

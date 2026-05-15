@@ -11,7 +11,7 @@ This file contains model answers for distributed computing exam questions.
 
 ## Key topics covered
 
-- [[GFS_AFS]] - File systems
+- [GFS\_AFS](GFS_AFS.md) - File systems
 - Distributed system architectures
 - Consensus algorithms
 - Network protocols
@@ -23,9 +23,9 @@ Detailed answers for all exam series questions. See individual topic notes for d
 
 ## Related files
 
-- [[BT Question Bank]] - Question bank
-- [[Solutions to question bank]] - Solutions
-- [[GFS_AFS]] - Detailed file system notes
+- [BT Question Bank](BT%20Question%20Bank.md) - Question bank
+- [Solutions to question bank](Solutions%20to%20question%20bank.md) - Solutions
+- [GFS\_AFS](GFS_AFS.md) - Detailed file system notes
 
 ---
 

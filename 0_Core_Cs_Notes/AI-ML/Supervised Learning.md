@@ -32,13 +32,13 @@ The core components for this type of learning are
 - Multi-class: Animal species identification
 - Multi-label: Document topic tagging
 **Common Algorithms**:
-- [[Algorithms/Logistic Regression|Logistic Regression]]
+- [Logistic Regression](Algorithms/Logistic%20Regression.md)
 - Decision Trees
 - Random Forests
-- [[Algorithms/Support Vector Machines (SVM)|Support Vector Machines (SVM)]]
+- [Support Vector Machines (SVM)](Algorithms/Support%20Vector%20Machines%20(SVM).md)
 - Neural Networks
-- [[Algorithms/KNN|KNN]]
-- [[Algorithms/Naive Bayes|Naive Bayes]]
+- [KNN](Algorithms/KNN.md)
+- [Naive Bayes](Algorithms/Naive%20Bayes.md)
 
 
 ### 2. **Regression**
@@ -50,7 +50,7 @@ The core components for this type of learning are
 - Temperature prediction
 
 **Common Algorithms**:
--  [[Algorithms/Linear Regression|Linear Regression]]
+-  [Linear Regression](Algorithms/Linear%20Regression.md)
 - Polynomial Regression
 - Decision Trees (for regression)
 - Gradient Boosting

@@ -53,4 +53,4 @@ Issues fixed inside the dataset
 
 # Technical Notes 
 
-[[Manga Recommendation Notes]]
+[Manga Recommendation Notes](Manga%20Recommendation%20Notes.md)

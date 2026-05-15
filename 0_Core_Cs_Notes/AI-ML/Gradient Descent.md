@@ -6,7 +6,7 @@ Class: [[]]
 ---
 As mentioned before any given model has 3 components 
 1. Algorithm
-2. [[Loss_Functions/Loss functions|Loss functions]]
+2. [Loss functions](Loss_Functions/Loss%20functions.md)
 3. Optimisation routine
 
 The most well known optimisation routine is called **Gradient Descent**

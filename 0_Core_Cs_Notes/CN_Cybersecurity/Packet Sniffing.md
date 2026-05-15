@@ -5,7 +5,7 @@ Class: [[]]
 
 ---
 
-Description: Capturing and analyzing packets while in transit (moving across the network) done with tools like [[Wireshark]].
+Description: Capturing and analyzing packets while in transit (moving across the network) done with tools like [Wireshark](Wireshark.md).
 
 The tool intercepts small data units and is able to monitor web activity or file transfers
 

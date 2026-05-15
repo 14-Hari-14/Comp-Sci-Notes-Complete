@@ -49,8 +49,8 @@ let first = arr[0];
 
 ## Related
 
-- [[Rust Initialization and basics]] - Getting started
-- [[Rust Roadmap]] - Learning path
+- [Rust Initialization and basics](Rust%20Initialization%20and%20basics.md) - Getting started
+- [Rust Roadmap](Rust%20Roadmap.md) - Learning path
 
 ---
 

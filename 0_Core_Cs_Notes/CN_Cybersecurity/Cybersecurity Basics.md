@@ -9,10 +9,10 @@ Class: [[]]
 1. Confidentiality: information only to those who are authorized for it
 	1. How to break
 		1. Social Engineering
-		2. [[Packet Sniffing]]
+		2. [Packet Sniffing](Packet%20Sniffing.md)
 	2. How to protect
 		1. [[Encryption]] both at transit and rest
-		2. Strict [[Access Control List (ACL)]]
+		2. Strict [Access Control List (ACL)](Access%20Control%20List%20(ACL).md)
 2. Integrity: maintaining the accuracy and trustworthiness of data
 	1. How to break
 		1. SQL Injection
@@ -21,7 +21,7 @@ Class: [[]]
 		1. Hashing Algorithms (SHA-26)
 3. Availability: Maintaining the service when required
 	1. How to break
-		1. [[Threats/DOS(Denial of service) & DDOS (Distributed DOS)|DOS(Denial of service) & DDOS (Distributed DOS)]]
+		1. [DOS(Denial of service) & DDOS (Distributed DOS)](Threats/DOS(Denial%20of%20service)%20&%20DDOS%20(Distributed%20DOS).md)
 		2. Ransomware
 	2. How to protect
 		1. Redundancy
@@ -31,13 +31,13 @@ Class: [[]]
 
 ## Common Attack Patterns
 1. Malware
-	1. [[Threats/Ransomware_Notes|Ransomware_Notes]]
+	1. [Ransomware_Notes](Threats/Ransomware_Notes.md)
 	2. Fileless malware
 	3. Spyware
 	4. Trojan
 	5. Worms
-	6. [[Threats/Botnet|Botnet]]
-2. [[Threats/DOS(Denial of service) & DDOS (Distributed DOS)|DOS(Denial of service) & DDOS (Distributed DOS)]]
+	6. [Botnet](Threats/Botnet.md)
+2. [DOS(Denial of service) & DDOS (Distributed DOS)](Threats/DOS(Denial%20of%20service)%20&%20DDOS%20(Distributed%20DOS).md)
 3. Phishing
 4. Spoofing
 5. Identity

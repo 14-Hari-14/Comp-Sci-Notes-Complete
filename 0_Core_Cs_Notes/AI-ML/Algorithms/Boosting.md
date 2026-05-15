@@ -9,7 +9,7 @@ Boosting is the ensemble learning version where the errors of the current tree a
 
 There are 2 types of boosting mainly
 1. Adaboost (Adaptive Boosting)
-2. Gradient Boosting -> [[XGBoost]] -> LightGBM
+2. Gradient Boosting -> [XGBoost](XGBoost.md) -> LightGBM
 
 The difference between adaboost and gradient boosting is that adaboost tries to improve weights attached to each tuple whereas gradient boosting tries to figure out rules based on how incorrect the tree was.
 

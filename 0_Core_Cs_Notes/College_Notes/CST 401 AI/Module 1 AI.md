@@ -25,10 +25,10 @@ Introduction to artificial intelligence basics and concepts.
 
 ## Related notes
 
-- [[../../AI-ML/AI-ML Basics|AI-ML Basics]] - Foundation concepts
-- [[Module 2 AI]] - Continuation of this module
-- [[../../AI-ML/Supervised Learning|Supervised Learning]] - Main ML paradigm
-- [[../../AI-ML/AI-ML Basics|AI-ML Basics]]
+- [AI-ML Basics](../../AI-ML/AI-ML%20Basics.md) - Foundation concepts
+- [Module 2 AI](Module%202%20AI.md) - Continuation of this module
+- [Supervised Learning](../../AI-ML/Supervised%20Learning.md) - Main ML paradigm
+- [AI-ML Basics](../../AI-ML/AI-ML%20Basics.md)
 
 ---
 ### What is AI and how to define it ?

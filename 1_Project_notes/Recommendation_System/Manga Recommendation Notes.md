@@ -7,7 +7,7 @@ Class: [[]]
 # TOC 
 
 1. Embeddings
-2. [[Backend System + Streamlit Notes]]
+2. [Backend System + Streamlit Notes](Backend%20System%20+%20Streamlit%20Notes.md)
 
 # Embeddings
 
@@ -28,7 +28,7 @@ what I have written here is a representation of a vector in its components form 
 
 Now one of the other axioms was that similar vectors point in the same direction this is important because this is required for doing **similarity search** on a vector store, the practical applications could be
 
-- [recommendation system]([[Manga Recommendation Project Documentation]])
+- [recommendation system]([Manga Recommendation Project Documentation](Manga%20Recommendation%20Project%20Documentation.md))
 - to find some sort of underlying pattern, etc
 
 Now to quantify how similar 2 vectors are there 2 methods:

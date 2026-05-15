@@ -33,7 +33,7 @@ Wireshark is a free tool that lets you see all the data moving through your netw
 
 ## Security use
 
-- Detect [[Packet Sniffing]] attacks
+- Detect [Packet Sniffing](Packet%20Sniffing.md) attacks
 - Monitor for suspicious network activity
 - Understand network behavior
 - Test network security
@@ -42,6 +42,6 @@ Wireshark is a free tool that lets you see all the data moving through your netw
 
 - **Only use on networks you own or have permission to monitor**
 - Using Wireshark on other people's networks is illegal
-- Related to [[Packet Sniffing]] but used for legitimate purposes
+- Related to [Packet Sniffing](Packet%20Sniffing.md) but used for legitimate purposes
 
 ---

@@ -25,8 +25,8 @@ This is done in the assumption that if the function is able to map the closest t
 - **Multiple Linear Regression (MLR):** Uses multiple predictors (\(x_1, x_2, \dots, x_k\)) to predict a continuous outcome: \(y = \beta_0 + \beta_1x_1 + \dots + \beta_kx_k + \epsilon\).
 - **Polynomial Regression:** Models non-linear relationships by raising the independent variable to a power (e.g., \(x^{2}\), \(x^{3}\)) but remains linear in its coefficients.
 - **Stepwise Regression:** An automated method for selecting the most significant independent variables in an MLR model.
-- **Ridge/Lasso Regression:** Linear techniques that introduce [[../regularisation|regularisation]] to prevent overfitting in multiple regression.
+- **Ridge/Lasso Regression:** Linear techniques that introduce [regularisation](../regularisation.md) to prevent overfitting in multiple regression.
 
 It uses the loss function of 
-1. [[../Loss_Functions/MSE|MSE]]
-2. [[../Loss_Functions/MAE|MAE]]
+1. [MSE](../Loss_Functions/MSE.md)
+2. [MAE](../Loss_Functions/MAE.md)

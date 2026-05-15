@@ -11,7 +11,7 @@ Using computers to find a pattern between data and output.
 
 ## Types of machine learning
 
-### [[Supervised Learning]]
+### [Supervised Learning](Supervised%20Learning.md)
 
 ### [[Unsupervised Learning]]
 
