@@ -1,8 +1,13 @@
-Date: 2025-12-12
-Topics: #backend #fast_api 
-Purpose:
-Link: 
-Class: [[]]
+---
+created: 2025-12-12
+topics:
+  - backend
+tags:
+  - fast_api
+aliases:
+  - fastapi
+purpose: To explore backend in python with fastapi
+---
 
 ---
 

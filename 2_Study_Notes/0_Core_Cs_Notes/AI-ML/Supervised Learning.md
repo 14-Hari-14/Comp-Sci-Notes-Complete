@@ -62,7 +62,7 @@ The core components for this type of learning are
 -  [Linear Regression](Algorithms/Linear%20Regression.md)
 - Polynomial Regression (in the linear regression link)
 - [Decision Trees + Random Forest](Algorithms/Decision%20Trees%20+%20Random%20Forest.md) (for regression)
-- [[Boosting]]
+- [Boosting](Algorithms/Boosting.md)
 
 
 

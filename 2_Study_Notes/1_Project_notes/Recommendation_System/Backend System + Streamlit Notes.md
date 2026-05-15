@@ -1,9 +1,15 @@
-Date: 2025-12-12
-Topics: #fast_api #streamlit #pydantic
-Purpose:
-Link: 
-Class: [[]]
-
+---
+created: 2025-12-12
+topics:
+  - backend
+tags:
+  - streamlit
+  - pydantic
+  - fast_api
+aliases:
+  - backend with python
+purpose: To act as a directory for backend concepts using python
+---
 ---
 
 # Backend Notes with python

@@ -1,9 +1,14 @@
-Date: 2025-12-09
-Topics: #recommendatio_system #ai 
-Purpose:
-Link: 
-Class: [[]]
-
+---
+created: 2025-12-09
+topics:
+  - recommendation_system
+  - ai
+  - documentation
+tags: []
+aliases:
+  - Project Documentation for recommendation system
+purpose: Project Documentation for recommendation system
+---
 ---
 
 # Project Overview

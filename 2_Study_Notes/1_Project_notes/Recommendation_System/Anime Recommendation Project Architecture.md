@@ -12,8 +12,8 @@ tags:
 - [x] Setup the data in collab ✅ 2025-12-09
 - [x] Create the vector store and the sqlite database ✅ 2025-12-10
 - [x] Get an embedding model from hugging face to transform this data ✅ 2025-12-09
-- [ ] Setup backend api to communicate between model and backend
-- [ ] optimize recommender system
+- [x] Setup backend api to communicate between model and backend
+- [x] optimize recommender system
 - [ ] check how to merge the dataset to improve anime and manga recommendations
 
 

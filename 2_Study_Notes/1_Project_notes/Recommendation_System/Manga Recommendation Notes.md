@@ -1,9 +1,13 @@
-Date: 2025-12-09
-Topics: #project_notes #attention #faiss 
-Purpose:
-Link: 
-Class: [[]]
-
+---
+created: 2025-12-09
+topics:
+  - project_notes
+  - recommendation_system
+tags:
+  - faiss
+aliases:
+purpose: To explain the recommendation system project
+---
 ---
 # TOC 
 

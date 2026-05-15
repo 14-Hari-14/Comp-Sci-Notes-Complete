@@ -1,7 +1,8 @@
 ---
-created: {{date}}
+created:
+  "{ date }":
 topics: []
 tags: []
-purpose: ""
 aliases: []
+purpose: ""
 ---
