@@ -1,5 +1,5 @@
 Date: 2025-12-07
-Topics: #log_reg #supervised_ml #classification #convexity
+Topics: #log_reg #supervised_ml #classification #convexity #algorithm 
 Link: 
 Class: [[]]
 

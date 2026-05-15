@@ -1,5 +1,5 @@
 Date: 2025-12-07
-Topics: #svm #supervised_ml #classification 
+Topics: #svm #supervised_ml #classification #algorithm 
 Link: 
 Class: [[]]
 
